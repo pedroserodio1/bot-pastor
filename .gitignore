@@ -1,0 +1,5 @@
+.autogit
+
+node_modules/
+
+config.json
